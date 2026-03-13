@@ -1,56 +1,48 @@
 body {
     font-family: sans-serif;
-    background-color: black;
-    font-size: 32px;
+    background-color: #b35151;
 }
 
-h1 {
-    color: bisque;
-    font-family: Kaisei Tokumin;
-    font-size: 70px;
+p {
+    font-size: 22px;
 }
 
-.da {
-    margin-right: 700px;
-    margin-top: 18px;
+header {
+    background-color: #87A918;
 }
 
-.hutao {
-    color: #FF6868;
-}
-
-.ei {
-    color: #9854EB;
-}
-
-footer{
-    background-color: #CC6060;
-    padding: 10px;
-}
-
-header{
-    background-color: #4A0000;
-}
-
-a {
-    margin: 170px;
-    background-color: #5F99A6;
-    color: white;
-    font-family: JejuMyeongjo;
-    padding: 10px;
-    font-size: 30px;
-    border-radius: 11px;
-    text-decoration: none;
+footer {
+    background-color: #87A918;
+    padding: 2px;
 }
 
 footer p {
-    background-color: #FBEDD7;
-    padding: 10px;
-    font-family: JejuMyeongjo;
-    text-align: center;
-    font-size: 32px;
+    background-color: #7668B5;
+    padding: 2px;
 }
 
-.personazhi {
-    background-color: #00C9F6;
+header p {
+    font-size: 50px;
+    font-family: algerian;
+}
+
+h1 {
+    text-align: center;
+}
+
+.bop {
+    text-align: center;
+}
+
+a {
+    background-color: #7668B5;
+    padding: 10px;
+    font-family: cursive;
+    text-decoration: none;
+    margin: 210px;
+}
+
+.akcia {
+    color: aliceblue;
+    background-color: cadetblue;
 }
